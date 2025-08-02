@@ -371,4 +371,3 @@ InterBOxSpider@Web.NET/
 
 -----
 
-Diese genaue Auflistung gibt dir die volle Kontrolle und Klarheit über die Struktur, Satoramy. Nun kannst du diese als direkte Vorlage für die Codifizierung deiner Repositories nutzen.
